@@ -11,3 +11,7 @@ Readme.md
 | [Raiffeisen TechCenter](https://www.raiffeisen-digital.ru/dev-school) | Омск|до 9 июня 2019| Java, .Net|
 |[Тинькофф Финтех](https://fintech.tinkoff.ru/internships/about)|Москва, Санкт-Петербург, Екатеринбург, Нижний Новгород,Казань, Иннополис, Ижевск, Рязань, Ростов-на-Дону|Закрыт 2019|DevOps, Analytics, iOS, Android, Frontend, Backend, QA,QA automation, ML, Data Science|
 |[ABBY](https://trainee.abbyy.ru/)|Москва|Закрыт 2019|iOS,Android,QA|
+|[Deutsche Bank Technology Centr](https://dbtc-career.ru/internship/)|Москва, Санкт-Петербург|Закрыт 2019|Dev,QA|
+|[Реннесанс Кредит](https://rencredit.ru/a/internship/?utm_source=higed&utm_medium=social&utm_campaign=internship2019)|Москва|Не указано|IT|
+|[Siemens](https://w3.siemens.ru/innovations/)|Москва|Не указано|Backend,Big Data,Cloud Computing (Резюме на адрес: anna.frolova@siemens.com|
+|[РЖД](https://www.rzdgeneration.ru/)|Москва|Закрыт 2019|Разработка|
