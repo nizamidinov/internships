@@ -15,3 +15,4 @@ Readme.md
 |[Реннесанс Кредит](https://rencredit.ru/a/internship/?utm_source=higed&utm_medium=social&utm_campaign=internship2019)|Москва|Не указано|IT|
 |[Siemens](https://w3.siemens.ru/innovations/)|Москва|Не указано|Backend,Big Data,Cloud Computing (Резюме на адрес: anna.frolova@siemens.com|
 |[РЖД](https://www.rzdgeneration.ru/)|Москва|Закрыт 2019|Разработка|
+|[ВКонтакте](https://vk.com/jobs)|Санкт-Петербург|Закрыт 2019|iOS,Android,Frontend,Backend,ML,Databases|
