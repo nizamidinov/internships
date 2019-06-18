@@ -16,3 +16,4 @@ Readme.md
 |[Siemens](https://w3.siemens.ru/innovations/)|Москва|Не указано|Backend,Big Data,Cloud Computing (Резюме на адрес: anna.frolova@siemens.com|
 |[РЖД](https://www.rzdgeneration.ru/)|Москва|Закрыт 2019|Разработка|
 |[ВКонтакте](https://vk.com/jobs)|Санкт-Петербург|Закрыт 2019|iOS,Android,Frontend,Backend,ML,Databases|
+|[Kaspersky Lab](https://safeboard.kaspersky.ru/)|Москва|2.09-13.10.19||QA,Dev,System Analysis, System Administration, Cyber security|
